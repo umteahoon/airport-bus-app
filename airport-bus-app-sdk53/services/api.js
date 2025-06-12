@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const SERVICE_KEY = '83sG4tbie7R5cJwtq3mPDFcL6rJa7CFGTL9PPAaj4CjIBXXWE5rtaFOSXxii74NRNKDRWdvTMkHadbbmJaYXsw%3D%3D';
+const SERVICE_KEY = '발급받은 키 입력 ';
 
 export const getBusPosition = async (routeId) => {
   try {
